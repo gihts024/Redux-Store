@@ -22,9 +22,8 @@ npm run seeds, npm run develop
 
 MIT
 
-## Test Instructions
- 
-
+## Demo Link
+https://reduxalexkinstore.herokuapp.com/
 
 ## Github ##
 [Github Link](https://github.com/gihts024)
